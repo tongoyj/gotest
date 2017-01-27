@@ -12,6 +12,6 @@ func main() {
 
 }
 
-// www.biblestory.info sample variable in GoLang
+// Bible Story sample variable in GoLang.Check out www.biblestory.info for the Truth that you need to know...
 
 
